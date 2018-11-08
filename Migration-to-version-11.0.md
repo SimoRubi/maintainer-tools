@@ -1,4 +1,4 @@
-# Before migrating
+# Before migrating Enjoy
 
 * Update yourself with the latest OCA Conventions: https://github.com/OCA/maintainer-tools/blob/master/CONTRIBUTING.md
 * Subscribe to the mailing list of the related project: https://odoo-community.org/groups
